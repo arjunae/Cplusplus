@@ -1,3 +1,9 @@
+/*
+author: Shehzad Khan
+date: 14.12.2020
+version: Alpha 0.1
+*/
+
 #include <iostream>
 #include <cstdlib>
 #include <ctime>
@@ -48,6 +54,7 @@ struct Array {
 	}
 };
 
+//functionality demonstration
 int main()
 {
 	Array a = a.create(5);
